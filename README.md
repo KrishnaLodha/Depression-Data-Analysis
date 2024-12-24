@@ -38,8 +38,3 @@ The dataset is securely hosted online for easy access during model execution.
 ## Results  
 - **Model Accuracy**: Achieved high accuracy with Logistic Regression and Random Forest.  
 - **Insights**: Identified significant contributors to depression risks, such as poor sleep and high screen time.  
-
-## Installation and Usage  
-1. Clone the repository:  
-   ```bash  
-   git clone https://github.com/yourusername/depression-risk-prediction.git  
